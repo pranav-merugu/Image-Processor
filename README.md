@@ -1,2 +1,2 @@
 # Image-Processor
-Program that changes images
+A program that changes images.
